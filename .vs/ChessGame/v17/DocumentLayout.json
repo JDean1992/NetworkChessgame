@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|c:\\users\\jod0601\\documents\\chessgame\\chessgame\\assets\\scripts\\net\\netmessages\\netutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\netmessages\\netutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\net\\netmessages\\netmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\netmessages\\netmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\net\\netmessages\\netrematch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\netmessages\\netrematch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\net\\netmessages\\netpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\netmessages\\netpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\pieces\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pieces\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\assets\\scripts\\net\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543010D5-7FF0-79F0-4C3E-C603B903A804}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetRematch.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetRematch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NetMessages\\NetRematch.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetRematch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NetMessages\\NetRematch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:01:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetMessage.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NetMessages\\NetMessage.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NetMessages\\NetMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:00:35.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetPromotion.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetPromotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NetMessages\\NetPromotion.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetPromotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NetMessages\\NetPromotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:59:55.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetUtility.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NetMessages\\NetUtility.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\NetMessages\\NetUtility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NetMessages\\NetUtility.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:58:05.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\Server.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\Server.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\Server.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\Server.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAIBUwIgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:19:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\Client.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\Client.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Net\\Client.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\Client.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:56:59.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Pieces\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pieces\\ChessPiece.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Pieces\\ChessPiece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pieces\\ChessPiece.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:16:12.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pieces\\Pawn.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pieces\\Pawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:13:44.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessBoard.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\ChessBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChessBoard.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\ChessBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChessBoard.cs",
+              "ViewState": "AgIAAFECAAAAAAAAAAAAAD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:32:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI.cs",
+              "ToolTip": "C:\\Users\\JOD0601\\Documents\\ChessGame\\ChessGame\\Assets\\Scripts\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUI.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA4wFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:51:59.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
